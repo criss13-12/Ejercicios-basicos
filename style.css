@@ -1,0 +1,30 @@
+body{
+    background-color: #516091;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: #EEF3AD;
+    text-align: center;
+}
+
+h2{
+    color: #EEF3AD;
+    text-align: justify;
+}
+h3{
+    color: #EEF3AD;
+    text-align: justify;
+}
+p{
+    color: #EEF3AD;
+    text-align: justify;
+}
+
+
+
+a{
+    color: #ADEBBE;
+    text-align: justify;
+}
