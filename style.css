@@ -1,7 +1,7 @@
 body{
     background-color: #516091;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    text-align: justify;
 }
 
 h1{
@@ -27,4 +27,12 @@ p{
 a{
     color: #ADEBBE;
     text-align: justify;
+}
+
+ol{
+    color: #EEF3AD;
+}
+
+table{
+    color: #EEF3AD;
 }
